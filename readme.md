@@ -8,4 +8,6 @@ There are two programming files.
 `Movie_Recommendation_System.ipynb` is used for creating a model that is used for recommendation system.
 `app.py` is used for developing a basic application.
 
+CSV Data is available in this [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+
 This recommendation system is made up of `TfidfVectorizer` followed by `cosine similarity` to get a similartiy score comparing other movie. 
